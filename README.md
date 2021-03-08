@@ -21,8 +21,12 @@ As an emoloyee to a company I have access to senitive data and I want to generat
 - THEN the password is either displayed in an alert or written to the page
 
 ## How the Finished Project Should Look
-![alt text]([![03-javascript-homework-demo.png](https://i.postimg.cc/wvbZjKHK/03-javascript-homework-demo.png)](https://postimg.cc/MMVd9Fvt))
+![alt text](https://i.postimg.cc/wvbZjKHK/03-javascript-homework-demo.png)
 
+<<<<<<< HEAD
 ### Sources
 [website]"http://www.net-comber.com/charset.html"
 ## Edited and Completed by TL
+=======
+## Edited and Completed by TL
+>>>>>>> 77cbc78060db392d07a220829fc2100799d3a360

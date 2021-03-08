@@ -23,7 +23,6 @@ As an emoloyee to a company I have access to senitive data and I want to generat
 ## How the Finished Project Should Look
 ![alt text](https://i.postimg.cc/wvbZjKHK/03-javascript-homework-demo.png)
 
-<<<<<<< HEAD
 ### Sources
 [website]"http://www.net-comber.com/charset.html"
 [website]"https://randojs.com/"

@@ -23,4 +23,6 @@ As an emoloyee to a company I have access to senitive data and I want to generat
 ## How the Finished Project Should Look
 ![alt text]([![03-javascript-homework-demo.png](https://i.postimg.cc/wvbZjKHK/03-javascript-homework-demo.png)](https://postimg.cc/MMVd9Fvt))
 
+### Sources
+[website]"http://www.net-comber.com/charset.html"
 ## Edited and Completed by TL

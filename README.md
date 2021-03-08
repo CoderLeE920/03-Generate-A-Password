@@ -26,7 +26,6 @@ As an emoloyee to a company I have access to senitive data and I want to generat
 <<<<<<< HEAD
 ### Sources
 [website]"http://www.net-comber.com/charset.html"
+[website]"https://randojs.com/"
+[website]"https://stackoverflow.com/"
 ## Edited and Completed by TL
-=======
-## Edited and Completed by TL
->>>>>>> 77cbc78060db392d07a220829fc2100799d3a360
